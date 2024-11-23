@@ -58,8 +58,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 
-**GitHub Description**
-
-A C# Windows Forms application for managing a school's database, featuring student and employee management, class scheduling, and grade tracking.  Integrated with Oracle Database for robust data handling.  Developed as a university assignment.
 
 
